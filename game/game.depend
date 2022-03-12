@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647043410 source:/home/as/prog/game/main.cpp
+	"AREA1.h"
+	<iostream>
+
+1647042851 /home/as/prog/game/include/AREA1.h
+	<iostream>
+
+1647043339 source:/home/as/prog/game/src/AREA1.cpp
+	"AREA1.h"
+	<iostream>
+
